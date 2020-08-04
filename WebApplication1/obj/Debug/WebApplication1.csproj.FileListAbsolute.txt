@@ -84,3 +84,8 @@ C:\Users\User\Desktop\BackendMvc\WebApplication1\WebApplication1\obj\Debug\WebAp
 C:\Users\User\Desktop\BackendMvc\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\User\Desktop\BackendMvc\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\User\Desktop\BackendMvc\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\User\Desktop\BackendMvc\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\User\Desktop\BackendMvc\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\BackendMvc\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\User\Desktop\BackendMvc\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\BackendMvc\WebApplication1\WebApplication1\bin\zh-Hant\EntityFramework.resources.dll
